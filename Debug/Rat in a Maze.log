@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\git\Rat in a Maze\main.cpp(42,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rat in a Maze.vcxproj -> D:\git\Rat in a Maze\Debug\Rat in a Maze.exe
